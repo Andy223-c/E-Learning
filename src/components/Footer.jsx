@@ -57,7 +57,7 @@ function Footer() {
           </h3>
           <ul className="space-y-2">
             <li>Email: info@elearn.com</li>
-            <li>Phone: +855 000 000 000</li>
+            <li>Phone: +855 00 000 000</li>
             <li>Location: Phnom Penh, Cambodia</li>
           </ul>
         </div>

@@ -22,7 +22,7 @@ function Hero() {
 //     </section>
 //   )
 return (
-    <section className="bg-fuchsia-50 pt-24 overflow-hidden">
+    <section className=" pt-24 overflow-hidden">
       <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 md:grid-cols-2 items-center min-h-\[650px] gap-10">
 
         {/* Left Content */}
