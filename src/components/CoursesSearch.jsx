@@ -2,7 +2,7 @@ import React from 'react'
 
 function CoursesSearch() {
   return (
-   <section className="pt-28 pb-16 bg-gray-50">
+   <section className="pt-28 pb-5 bg-gray-50">
       <div className="max-w-7xl mx-auto px-6">
 
         {/* Search Section */}

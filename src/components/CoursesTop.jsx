@@ -45,7 +45,7 @@ function CoursesTop() {
   }, []);
 
   return (
-    <section className="pt-3 pb-12 bg-gray-50">
+    <section className="pt-3 pb-5 bg-gray-50">
       <div className="max-w-7xl mx-auto px-6 relative">
 
         {/* Slider */}
