@@ -6,9 +6,9 @@ function AuthModal({ mode, close }) {
   const [showPassword, setShowPassword] = useState(false);
 
   return (
-    <div className="fixed inset-0 bg-black/40 flex justify-center items-center z-50">
+    <div className="fixed inset-0 bg-black/40 flex justify-end items-center z-50">
 
-      <div className="bg-white w-\[420px] p-8 rounded-2xl shadow-xl relative">
+      <div className="bg-gray-50 w-[420px] p-6 rounded-2xl shadow-xl relative mr-5">
 
         {/* Close */}
         <button
@@ -16,7 +16,7 @@ function AuthModal({ mode, close }) {
           className="absolute right-4 top-4 text-gray-500"
         >
           ✕
-        </button>
+        </button>   
 
         {/* Title */}
         <h2 className="text-2xl font-bold text-center mb-6">
